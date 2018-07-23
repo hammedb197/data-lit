@@ -1,6 +1,6 @@
 # TWEETSCRAPE
 
-The sentiment was done using Textblob.sentiment method and the twiter scraping was done using tweepy.
+The sentiment analysis was done using Textblob.sentiment method and the twitter scraping was done using tweepy.
 
 
 
@@ -10,4 +10,4 @@ Popular celebrity drake is used as example here.
 
 
 You can get required libraries from requirements.txt
-pip freeze
+
